@@ -7,3 +7,7 @@ dist/
 build/
 .vscode/
 .idea/
+
+*.csv
+*.ipynb
+.ipynb_checkpoints/
